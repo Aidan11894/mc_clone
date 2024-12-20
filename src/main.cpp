@@ -17,10 +17,10 @@ void processInput(GLFWwindow *window) {
 }
 
 int main() {
-  // Initialize GLFW
+  // Initialise GLFW
   glfwInit();
 
-  // Set version to 3.4 and use the core profile
+  // Set version to 3.3 and use the core profile
   glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 3);
   glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 3);
   glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
