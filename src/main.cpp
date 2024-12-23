@@ -45,6 +45,8 @@ int main() {
   }
 
   // Define vertex and fragment shader source code
+  // the coordinate origin is the middle of the window and coordinates are
+  // normalised
   const char *vertexShaderSource = "#version 330 core\n"
                                    "layout (location = 0) in vec3 aPos;\n"
                                    "void main() {\n"
@@ -130,6 +132,8 @@ int main() {
 
   // Render loop
   while (!glfwWindowShouldClose(window)) {
+
+    glfwPollEvents();
     // Check input
     processInput(window);
 
