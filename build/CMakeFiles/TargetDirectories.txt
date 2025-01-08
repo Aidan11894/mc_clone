@@ -1,4 +1,0 @@
-/home/aidan118/mc_clone/build/CMakeFiles/mc_clone.dir
-/home/aidan118/mc_clone/build/CMakeFiles/glad.dir
-/home/aidan118/mc_clone/build/CMakeFiles/edit_cache.dir
-/home/aidan118/mc_clone/build/CMakeFiles/rebuild_cache.dir

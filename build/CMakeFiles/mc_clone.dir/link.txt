@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/mc_clone.dir/src/main.cpp.o -o mc_clone  libglad.a /home/aidan118/mc_clone/Libraries/lib/libglfw3.a /usr/lib/x86_64-linux-gnu/libGL.so -lX11 -lpthread -ldl
