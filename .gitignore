@@ -1,0 +1,8 @@
+/build/
+/buil/
+
+*.out
+*.Zone.Identifier
+*.tmp
+*.log
+*.swp
